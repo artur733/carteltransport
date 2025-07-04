@@ -1,0 +1,30 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- WEED
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 51
+id: 1
+layout:
+- - - 0
+name: Distribution center
+placement: in-town
+probabilityInGame: 15
+probabilityMapGen: 25
+prospectChance: 100
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/distribution-center/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/distribution-center/1.png
+      left: -27
+      top: -24
+type: primary

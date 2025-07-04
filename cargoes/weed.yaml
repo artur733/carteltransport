@@ -1,0 +1,17 @@
+abbreviation: WD
+available: true
+classes: 2
+colour: 87
+id: 0
+label: WEED
+longName: weed
+name: Weed
+penaltyLength: 12
+penaltyLowerBound: 0
+price: 9458
+sprite:
+  filename: cargoes/weed.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 1
