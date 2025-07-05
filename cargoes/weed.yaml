@@ -8,7 +8,7 @@ longName: weed
 name: Weed
 penaltyLength: 12
 penaltyLowerBound: 0
-price: 9458
+price: 80185
 sprite:
   filename: cargoes/weed.png
   left: 0

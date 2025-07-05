@@ -1,0 +1,137 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- WEED
+colour: 85
+fundCostMultiplier: 49
+id: 14
+layout:
+- - - 1
+    - -1
+    - 0
+  - - -1
+    - -1
+    - -1
+  - - 6
+    - 3
+    - 7
+- - - 3
+    - 4
+    - 7
+  - - -1
+    - -1
+    - 2
+  - - 6
+    - -1
+    - 1
+  - - 5
+    - 0
+    - -1
+- - - 7
+    - 1
+    - 6
+    - 3
+  - - 0
+    - -1
+    - -1
+    - -1
+  - - 4
+    - 2
+    - -1
+    - 5
+name: Weed farm
+placement: anywhere
+probabilityInGame: 3
+probabilityMapGen: 20
+prospectChance: 75
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3981
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/weed-farm/1.png
+      left: -31
+      top: -21
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3981
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/weed-farm/2.png
+      left: -31
+      top: -21
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/weed-farm/3.png
+      left: -31
+      top: -21
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3981
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/weed-farm/4.png
+      left: -31
+      top: -21
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3981
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/weed-farm/5.png
+      left: -31
+      top: -21
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3981
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/weed-farm/6.png
+      left: -31
+      top: -21
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3981
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/weed-farm/7.png
+      left: -31
+      top: -21
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3981
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/weed-farm/8.png
+      left: -31
+      top: -21
+type: primary
